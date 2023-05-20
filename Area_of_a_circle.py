@@ -1,2 +1,2 @@
-b=int(input())
-print("{:.2f}".format(3.14*b*b))
+r=int(int(input()))
+print(float(r*r*3.14))
